@@ -1,0 +1,14 @@
+# Ignore downloaded images
+pexels_kid_study/
+
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# macOS
+.DS_Store
