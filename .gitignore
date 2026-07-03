@@ -1,6 +1,10 @@
 # Ignore downloaded images
 pexels_kid_study/
 
+# Environment files
+.env
+*.env
+
 # Python artifacts
 __pycache__/
 *.py[cod]
